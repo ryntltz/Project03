@@ -1,0 +1,41 @@
+.hero{
+    border: 0;
+    float: left;
+    position: relative;
+}
+
+.hero-image{
+    width: 100%;
+}
+
+.PennLogo{
+    border: 0;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+}
+
+#navbar{
+    border: 0;
+    position: absolute;
+    top: 40px;
+    right: 40px;
+}
+
+.PennNav{
+    color: black;
+    padding: 14px;
+    font-size: 16px;
+}
+
+.PennMission{
+    font-size: 24px;
+    font-style: italic;
+    text-align: center;
+    padding: 40px;
+    font-family: 'EB Garamond', serif;
+}
+
+.space{
+    height: 40px;
+}
